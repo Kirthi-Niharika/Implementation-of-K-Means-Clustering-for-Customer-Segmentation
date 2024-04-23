@@ -68,7 +68,7 @@ plt.title("Customer Segments")
 ## Elbow method graph (wcss vs each iteration):
 ![image](https://github.com/Kirthi-Niharika/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/114135005/6da48b64-e706-4863-943f-780946b9b4eb)
 
-## Cluster represnting customer segments-graph:
+## Cluster representing customer segments-graph:
 ![image](https://github.com/Kirthi-Niharika/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/114135005/d71fbc0e-bb84-43b3-b8ed-534b7c618b13)
 
 ## Result:
